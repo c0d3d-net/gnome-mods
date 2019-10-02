@@ -1,5 +1,6 @@
 # gnome-mods
-gnome-classic.css
+- gnome-classic.css
+
 A little bit thinner top bar.
 Icons and Text turns red if clicked or hovering over it.
 
